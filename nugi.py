@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 import time, random, sys, re, os, json, subprocess, threading, string, codecs, requests, tweepy, ctypes, urllib, urllib2, wikipedia
 
 cl = LINETCR.LINE()
-cl.login(token="EmZMiC3V1ZV70KrEMMw6.TZBfSxLpwQmajTfI0hZL5G.11k6S1sUlX9SbdA8oDJustBIJVGyobI+e3SFkBE2g8g=")
+cl.login(token="EmgQ3Tqzep4UdGhinrP3.u2X7tqMfUrVpjIIZNGIquW.4CGtj9WtSOc4iYRuhglR6YOh9/s7M8UBMwy1D1AlI1I=")
 cl.loginResult()
 
 ki = LINETCR.LINE()
@@ -187,10 +187,7 @@ helpMessage ="""
 ��✒ Protect On/off
 ��✒ Namelock On/off
 
-��✒ Creator 👇👇
-��✒ http://line.me/ti/p/jlEouH0zr3
-
-��✒ C͍͇̪̲͎̯͎̫̩̽̅̈́̅̌́̍̐ŗ̛͔̳͔̦́̋͛̎e̶̮̳͕͍̺̼̱͎͛̃̾̍̑̐ǻ͕͍̻̭̟̪͒́́̎̕͘̕͟t̢̠̻̗̠͙̦͒̉̈̎͂̐͒͑o̸̡̲̜̯̤͚̠̬͊̓̌̄̒͠r̵̺̲̗̩͙̐̇̾̐͐̏̃̓́̊ B̝̪̭͓͍̺͐͂̑̅̓͗͗̈́͢y͚͔̝͖̮̤͚̅̉̑̐̓̀̋̊͂͜͜͢͞:̶̨̻̪͓̦̻̋̾̂̽̎͘͜͜ Ţ̸̡̫̙͎̰̜͎͚̎̀͗̌̏͛͌͜a̛̛̪̱̳͉͚̹̣̦̼͒͗͆̿͋͡͠m̰̬͇̭̔̓́̓͢͞ĩ̡̢̥̰̤̗̩̥̥̫́̐̔̾̾͂̚͠͝i̴͙̦̹̫̾̈̿̈́̊̃̆͒͜͢͞ ��✒•┅───── """
+"""
 
 KAC=[cl,ki,kk,kc,kd,ke,kf,kg,kh,kj,kl,km,kn,ko,kp,kq,kr,ks,kt]
 mid = cl.getProfile().mid
@@ -220,19 +217,19 @@ autoinvite = []
 autoleaveroom = []
 targets = []
 Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Jmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid]
-admin = ["ub736c5b1794f5aa30026d162d07ce5e6",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Jmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid]
-owner = ["ub736c5b1794f5aa30026d162d07ce5e6",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Jmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid]
+admin = ["u536c7b4d0985b91bcf2628b39e089053",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Jmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid]
+owner = ["u536c7b4d0985b91bcf2628b39e089053",mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Jmid,Lmid,Mmid,Nmid,Omid,Pmid,Qmid,Rmid,Smid,Tmid]
 wait = {
     'contact':False,
     'autoJoin':False,
-    'autoCancel':{"on":True, "members":1},
+    'autoCancel':{"on":False, "members":1},
     'leaveRoom':False,
     'timeline':True,
     'autoAdd':False,
-    'message':"Thanks for add Me MY NAME IS TAMII",
+    'message':"Thanks for add Me MY NAME IS NUGI",
     "lang":"JP",
-    "comment":"AutoLike by Tamii",
-    "commentOn":True,
+    "comment":"AutoLike by ",
+    "commentOn":False,
     "commentBlack":{},
     "wblack":False,
     "dblack":False,
