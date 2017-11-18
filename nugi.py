@@ -29,11 +29,11 @@ kd.loginResult()
 ke = LINETCR.LINE()
 ke.login(token="EmDSRYcDrME9fK8cWQdc.Ocs6oldJGsoWk9pCqXzhZa.sisnYPhLcfnYPJAIXK43by6RWRsDI5rJgscFXcEC1xY=")
 ke.loginResult()
-Apakah ini?
+
 kf = LINETCR.LINE()
 kf.login(token="EmwgC8baAkjXCh8uYwG6.2UeRyOas4JqdmlFHM4l4HG.sgdsjK1J/ax58XAWRCn/x8Dusfs9btEClelJjNfn2Oo=")
 kf.loginResult()
-Apakah ini?
+
 kg = LINETCR.LINE()
 kg.login(token="EmAqEyYESRzMZBCCjGV1.NaE6jbjJBSm+7SSfcJL+Oq.5WWMVMWNG9LNSea2BoOxMPhMTzk1LAebFofNodv10co=")
 kg.loginResult()
