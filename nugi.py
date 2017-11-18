@@ -11,78 +11,78 @@ cl.login(token="EmgQ3Tqzep4UdGhinrP3.u2X7tqMfUrVpjIIZNGIquW.4CGtj9WtSOc4iYRuhglR
 cl.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EmfUsg0drkp2fEBi9Qrb.BNyZ+h9RxCUErhI47z2TsW.zP88/CrIW13pa4qwh5FWcAP0dO+OfD820zCPF4pX5oc=")
+ki.login(token="EmMFQnvN5dPicrY8XWk2.R0G6FccjrEi2BGP/8vR3CG.qQyngv9ojgSd21Ig/3IoOU0g5C4W4lJFLIabw2BZ1Dw=')
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EmspKirwbEjemqqHJUb7.PxA11UvF6+oIj1J2xHVgHW.DD+N4SDD7wvuasJsGnmW5plCMBHpI1kffIFV9ma44Kc=")
+kk.login(token="EmQtepCLkhqhdSf5bXcb.wkagj/znFk4UiY5nRNWTcW.lzmzjc5ulhCfQcvMY8bKiLma86LnhmOdguaN0N8O2Y8=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EmdpE54Je1ojetkXmKQd.3ZijQj/+HYJ/+9NTGXTdBq.Dkv3tBOnJ4DsvFu6ER5mK2zR7h0FRAW0/FJyZiSD2Fs=")
+kc.login(token="EmR9TSJzlfrJQLfpIyne.hwamOo3gtCFYPYR8e25DNG.x+RL84nGgUaoAMsTpkh8zmeSxcReZOcx2uU/iVp6IjU=")
 kc.loginResult()
 
 kd = LINETCR.LINE()
-kd.login(token="Emesgp6g4xLptFAcKEe2.HczpEpY3698wuSB+TzCDKG.vFtZpDippE+ZkQxxVEDn1BmpjyM+z+f/x4/Lo+cAFlk=")
+kd.login(token="EmLyjEvxifEBFPRi1br1.6J8sF0wrg5f4af+rYN3GWq.AeoxEbX7O297XhJXVxCQrXt//jM/QzsmF/1WroUPdeI=")
 kd.loginResult()
 
 ke = LINETCR.LINE()
-ke.login(token="EmMtwsiInIfBXPVS5fYa.i/2QVqxGpVzmWQXItt4HYG.cfbtejgIlGQE3TTAg7FlMWcE1/6kwokKNe3wDg1gztM=")
+ke.login(token="EmDSRYcDrME9fK8cWQdc.Ocs6oldJGsoWk9pCqXzhZa.sisnYPhLcfnYPJAIXK43by6RWRsDI5rJgscFXcEC1xY=")
 ke.loginResult()
-
+Apakah ini?
 kf = LINETCR.LINE()
-kf.login(token="EmCxepD4zQoJp5IhDbta.DP7HM0ARnuIu/2g0+3pMUG./+3rQ+luem39IsiuASywPOVjmG+0TpJhMpmZowgn8yI=")
+kf.login(token="EmwgC8baAkjXCh8uYwG6.2UeRyOas4JqdmlFHM4l4HG.sgdsjK1J/ax58XAWRCn/x8Dusfs9btEClelJjNfn2Oo=")
 kf.loginResult()
-
+Apakah ini?
 kg = LINETCR.LINE()
-kg.login(token="Eme45nZDSATx9C6vYxRa.M5S4YxDWvhoYOasbMPWroG.Tq/iSCV68m9567XK4xxEGSXOAOVJEPwNW+odUm/BwT4=")
+kg.login(token="EmAqEyYESRzMZBCCjGV1.NaE6jbjJBSm+7SSfcJL+Oq.5WWMVMWNG9LNSea2BoOxMPhMTzk1LAebFofNodv10co=")
 kg.loginResult()
 
 kh = LINETCR.LINE()
-kh.login(token="EmIRhD60WnHD3t4FET34.9gH7ABV+xQLJo9i7SbFX5a.Yr0Yii0G3ouW7kOEMdXrPongIIs0Q2ab9Q0xUiRLfHI=")
+kh.login(token="Emfb24PnFY7lk0gOTXEf.SGNmLC7LgH2UsQ/BA8jvpW.QLXqAlK4HtWZrPXaUtpWDlhCpz/Ch97ZAJ0v2M/xlc4=")
 kh.loginResult()
 
 kj = LINETCR.LINE()
-kj.login(token="EmLppwNR3nIRHTOtPilb.8udcfgLi7ehlJbE2o+xCkW.QzwPU+t85FDCd/TcU0H5NdPq0MUzuCXRzaZPRp1O/mY=")
+kj.login(token="EmzGpcgtT5D691CFk1N8.u+yH449esKbpkIpqgWYbka.ggX/XHsuVrh/Cyl86H64ynxB8zEYVtvFdE6PTdQ/Hbw=")
 kj.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token="EmYDhAhUQqmCaUB8SZA4.XzkQX6Z6SKas/aWEdxhG9a.HTgYRulRHxXSc+72zLVfT2VLIRVZvh4ImQvEtU6KxBg=")
+kl.login(token="EmvzM3K6TtDIuwodz4M8.ZcvMAco523kADOLmCnlP2a.pAIyz/uSRdyE5qfESxJw6wVjy6uJnTfToJINO7Eudsk=")
 kl.loginResult()
 
 km = LINETCR.LINE()
-km.login(token="EmCXaH6hkxN7L4iWpyGa.M18YOGKVCrQRdiHWLocYoG.Bga5dUzA36+J0GekTRX7Sz5R9vrUWYaxXn7rGrXUPBc=")
+km.login(token="Emb0g22NbyFdsFMwFqn7.Cz9y3WRNvYVyxVu5ac9mPW.iwXMx8lmq/qCVMy5qbIiUysdhBCQeX2MV6IvRkCIV8o=")
 km.loginResult()
 
 kn = LINETCR.LINE()
-kn.login(token="EmjOueAJz9I4iNjWUPm0.xk6CFUa1TffEm+BFjYuhCa.pk6HGOsm6rlBtQLo4D48hQAaLUBlOgUJx0qGfVEpyc8=")
+kn.login(token="Em73DSAUn6DAFL7TNya4.mgoEyyFIANJ3L/JP+sy5Da.75u66ig67p/3rPh+P+AkMZjEnecsZ4UwtCOM9wQxzvI=")
 kn.loginResult()
 
 ko = LINETCR.LINE()
-ko.login(token="Em44M0djUhjilmwO5eW4.gNyro7TbVPOq9q7KfxZ6ja.fD1FXX13tI04xIuOkhGBE5+F3sywEuweexo1C/GxJ1U=")
+ko.login(token="Emb0g22NbyFdsFMwFqn7.Cz9y3WRNvYVyxVu5ac9mPW.iwXMx8lmq/qCVMy5qbIiUysdhBCQeX2MV6IvRkCIV8o=")
 ko.loginResult()
 
 kp = LINETCR.LINE()
-kp.login(token="Emm6NUELDiThHb11mo63.beFYyPfuxT1XkkxB0z7bOW.iKoovhLczCH/Pd0VtVxhYA/x5NpywVyBiceIZwcxI2s=")
+kp.login(token="EmwVkvFKk8IaISDFU1Rf.iZRSpT3YlwwbdR4dP4RIlW.3YOBoy8SI3Lrqe6D/LVVTAmWdq+dIBloW2XxWMHRQhE=")
 kp.loginResult()
 
 kq = LINETCR.LINE()
-kq.login(token="EmTyM8gXpOZkJwy0hnK3.Zcwf6HrGpji9sCc98VTOeW.suZo5gb/3FZ2hEFhe2+t+gomNdr1GnH0566EGnElV58=")
+kq.login(token="EmvzM3K6TtDIuwodz4M8.ZcvMAco523kADOLmCnlP2a.pAIyz/uSRdyE5qfESxJw6wVjy6uJnTfToJINO7Eudsk=")
 kq.loginResult()
 
 kr = LINETCR.LINE()
-kr.login(token="Emaas45PFxDMQU2svLIa.r5CTm/T+B9J2h3ZXLAhq6G.od8/LyM8B5Luv7HiYiew3n0zS1uLfsyqd5Nja1SeApM=")
+kr.login(token="EmzGpcgtT5D691CFk1N8.u+yH449esKbpkIpqgWYbka.ggX/XHsuVrh/Cyl86H64ynxB8zEYVtvFdE6PTdQ/Hbw=")
 kr.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="Emwfi9Mdukz6QroWpHQ7.bHov9ONJEzx2Ya/PwMshPW.0DaYTC4xiCU3AaklyQNCVxoRowvu47htNMQNGM/Jpo8=")
+ks.login(token="EmwgC8baAkjXCh8uYwG6.2UeRyOas4JqdmlFHM4l4HG.sgdsjK1J/ax58XAWRCn/x8Dusfs9btEClelJjNfn2Oo=")
 ks.loginResult()
 
 kt = LINETCR.LINE()
-kt.login(token="EmLX3yrZguae6q822s49.HKYa3NeUc1iHvq5GaRXJgq.yAuKmCAeoHK8R/5p65i8x1N8Ek1an6ywPurnBBEq/jQ=")
+kt.login(token="EmDSRYcDrME9fK8cWQdc.Ocs6oldJGsoWk9pCqXzhZa.sisnYPhLcfnYPJAIXK43by6RWRsDI5rJgscFXcEC1xY=")
 kt.loginResult()
 
-print "Tamii Bot"
+print "Nugi sazz Bot"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 helpMessage ="""
@@ -188,6 +188,10 @@ helpMessage ="""
 ��✒ Protect On/off
 ��✒ Namelock On/off
 
+
+👿🕵✒ C͍͇̪̲͎̯͎̫̩̽̅̈́̅̌́̍̐ŗ̛͔̳͔̦́̋͛̎e̶̮̳͕͍̺̼̱͎͛̃̾̍̑̐ǻ͕͍̻̭̟̪͒́́̎̕͘̕͟t̢̠̻̗̠͙̦͒̉̈̎͂̐͒͑o̸̡̲̜̯̤͚̠̬͊̓̌̄̒͠r̵̺̲̗̩͙̐̇̾̐͐̏̃̓́̊ B̝̪̭͓͍̺͐͂̑̅̓͗͗̈́͢y͚͔̝͖̮̤͚̅̉̑̐̓̀̋̊͂͜͜͢͞:̶̨̻̪͓̦̻̋̾̂̽̎͘͜͜ ̵̨͇͙͙̺̲͇͖̯͕́̆͗̓́̍͘̚͞͞ N̫̞̤͉̪͉̿͐̏̓̕̕ú̝͖̠͎̅́̌͊̀̏̊͟͠͠Ḡ̢̖̙͖̮̀̄͑̃̓́̆̚l̛̟͓̺̲̝̳̫̩̠̅̈́̍̿͘͝•┅─>
+
+
 """
 
 KAC=[cl,ki,kk,kc,kd,ke,kf,kg,kh,kj,kl,km,kn,ko,kp,kq,kr,ks,kt]
@@ -225,11 +229,11 @@ wait = {
     'autoJoin':False,
     'autoCancel':{"on":False, "members":1},
     'leaveRoom':False,
-    'timeline':True,
+    'timeline':False,
     'autoAdd':False,
     'message':"Thanks for add Me MY NAME IS NUGI",
     "lang":"JP",
-    "comment":"AutoLike by ",
+    "comment":"AutoLike by Nugi",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
@@ -2852,7 +2856,7 @@ def bot(op):
 				msg.contentType = 13
 				msg.contentMetadata = {'mid': mid}
 				cl.sendMessage(msg)
-				cl.sendText(msg.to,"My Creator 👉Tamii PSD T&Z TEAM ")
+				cl.sendText(msg.to,"My Creator 👉ஜ۩[⑄̶̶̶̲̄ṉ̅ūgī̶̲۩ஜ----->")
             elif "Id" == msg.text:
                 key = msg.to
                 cl.sendText(msg.to, key)
@@ -4646,7 +4650,7 @@ def bot(op):
                 start = time.time()
                 cl.sendText(msg.to, "Access time Waiting...")
                 elapsed_time = time.time() - start
-                cl.sendText(msg.to, "%s<==Tamii Server" % (elapsed_time))
+                cl.sendText(msg.to, "%s<==Vps free Server" % (elapsed_time))
 # ----------------- BAN MEMBER BY TAG 2TAG ATAU 10TAG MEMBER
             elif ("Bl " in msg.text):
               if msg.from_ in admin:
@@ -4703,7 +4707,7 @@ def bot(op):
 						cont.to = msg.to
 						cl.sendMessage(cnt)
 					
-            elif msg.text in ["Mentionall"]:
+            elif msg.text in ["Tagall"]:
                 if msg.toType == 2:
                     group = cl.getGroup(msg.to)
                     name = [contact.mid for contact in group.members]
